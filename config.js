@@ -27,10 +27,10 @@ global.APIKeys = {
 /*============ NOMOR ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
-	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
+	nomorbot: '94710646007',
+	nomorown: '94710646007',
 	namebot: 'Assisten YuLa',
-	nameown: 'Maximus Store',
+	nameown: 'Nivanka',
 	channel: '120363241570452835@newsletter',
 	namechannel: 'XM4ZE | Whatsapp Bots'
 }
@@ -58,7 +58,7 @@ global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak
 
 /*=========== TEXT & IMAGE ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.nameown = 'Maximus Store' // Ganti jadi nama kalian
+global.nameown = 'Nivanka' // Ganti jadi nama kalian
 global.waown = 'wa.me/6281283516246' // ganti nomor tanpa menghilangkan wa.me/
 global.mail = 'maximusstoreindonesia@gmail.com' // boleh taruh email kalian
 global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
@@ -71,8 +71,8 @@ global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw
 
 /*=========== THUMBNAIL ===========*/
 global.thumvid = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/Vid_20240220_073653.mp4?raw=true' // Allmenu Video thumbnail
-global.welcome = '' // [OPSIONAL] isi dengan link thumbnail welcome kalian
-global.leave = '' // [OPSIONAL] isi dengan link thumbnail leave kalian
+global.welcome = 'welcome @dedescription @user' // [OPSIONAL] isi dengan link thumbnail welcome kalian
+global.leave = 'good bye' // [OPSIONAL] isi dengan link thumbnail leave kalian
 global.maximus = '' // [OPSIONAL] isi dengan link thumbnail kalian. link ini akan muncul di semua menu dan taruh di tengah-tengah simbol itu
 
 
